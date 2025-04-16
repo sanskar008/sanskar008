@@ -45,23 +45,15 @@
 
 ---
 
-### 🎯 2025 Goals
-- 🚀 Launch **Expense Manager AI Notification App**
-- 🔍 Research ML-based **sensor fault detection**
-- 🌍 Contribute to impactful Open Source projects
-- 🎓 Crack top tech roles with solid dev + DSA balance
-
----
 
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sanskar-koserwal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sanskarkoserwal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/sanskar008"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sanskark008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">💬 "Code like poetry, debug like Sherlock." 🕵️‍♂️</p>
+<p align="center">💬**Code like poetry, debug like Sherlock.** 🕵️‍♂️</p>
 
 ---
