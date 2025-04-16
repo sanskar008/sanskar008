@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanskar Koserwal
 
-<!--
-**sanskar008/sanskar008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech enthusiast | General Secretary - Technical Committee @ IIITV | MLSA | Ex-StockGro Intern
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+- 🔐 Secure Voting System using SSL/TLS
+- 🤖 AutoML Wizard (Best ML model selector)
+- 📷 Face Recognition Attendance System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning:
+- Advanced ML
+- Flutter Animations & Firebase integrations
+
+💡 Fun fact: I break code more than I write it 😄
+
+📫 How to reach me:
+- LinkedIn: [Your Link]
+- Portfolio: [If any]
+- Email: [Your Email]
+
+🛠️ Tech Stack: 
+`C++` `Python` `Flutter` `Node.js` `Firebase` `MongoDB` `Raspberry Pi` `Machine Learning`
+
+⚡ Highlight Projects:
+- [AutoML Wizard](GitHubLink)
+- [Face Attendance System](GitHubLink)
+- [Sizzle Delivery App](GitHubLink)
+
