@@ -10,9 +10,9 @@
 ---
 
 ### ⚡ About Me
-- 👨‍💻 Currently exploring AI, cryptography, and real-world automation
-- 🛠️ Built end-to-end solutions from voting systems to delivery apps
 - 🧑‍🎓 Final year B.Tech CSE student @ IIIT Vadodara – ICD
+- 👨‍💻 Currently exploring AI,ML , cryptography, and real-world automation
+- 🛠️ Built end-to-end solutions from voting systems to delivery apps
 - 💬 Ask me about: Flutter, Firebase, ML, C++, Node.js, Project Ideas
 - 🧩 Fun fact: I make my debug logs tell dad jokes 😄
 
@@ -54,6 +54,6 @@
 
 ---
 
-<p align="center">💬**Code like poetry, debug like Sherlock.** 🕵️‍♂️</p>
+<p align="center">💬 Code like poetry, debug like Sherlock. 🕵️‍♂️</p>
 
 ---
