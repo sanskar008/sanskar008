@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  🧠 CSE Undergrad @ IIITV-ICD | 🚀 Full Stack & Flutter Dev | 🤖 ML Explorer | 📈 Finance Core @ MLSA | 💡 Building Real-World Tech
+  🧠 CSE Undergrad @ IIITV-ICD | 🚀 Full Stack & Flutter Dev | 🤖 ML Explorer | 📈 Finance Lead @ MLSA | 💼 General Secretary, Technical @ IIITV-ICD 
 </p>
 
 ---
