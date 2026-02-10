@@ -5,13 +5,12 @@
 <h1 align="center">Sanskar Koserwal</h1>
 
 <p align="center">
-  🚀 Full Stack Engineer | Systems Builder | Flutter Specialist  
-  🤖 ML + Computer Vision | 🏆 Hackathon Winner | 📈 1714 LeetCode (Top 10%)
+  🚀 Full Stack Engineer | Scalable Systems Builder | Flutter Specialist  
+  🤖 ML + Computer Vision | ⚡ Performance Optimizer | 🏆 Hackathon Winner
 </p>
 
 <p align="center">
   <a href="https://sanskarkoserwal.online"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/sanskar008"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/></a>
   <a href="https://linkedin.com/in/sanskar-koserwal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sanskark008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -20,143 +19,141 @@
 
 ## ⚡ About Me
 
-I build **production-grade, scalable systems** that solve real problems.
+Final-year B.Tech CSE student at IIIT Vadodara – ICD building **production-grade, scalable full-stack systems**.
 
-🎓 Final-Year B.Tech CSE @ IIIT Vadodara – ICD  
-💼 Ex-SDE Intern @ National Informatics Centre (NIC)  
-🏗 Built institutional systems serving 1200+ users  
-🧠 Strong DSA (260+ LeetCode | 1714 Rating | 3⭐ CodeChef)  
-🏆 Hackathon Winner (1st & 3rd place – Hack the Future)
+- 💼 3x Software Engineering Internships (NIC, ChatSpark, Doggzi)
+- 🏗 Systems serving 50,000+ users with 99.9% uptime
+- 📈 Reduced API latency by 35%, deployment failures by 90%
+- 🧠 1714 LeetCode Rating (Top 10%) | 3⭐ CodeChef
+- 🏆 1st & 3rd Place – Hack the Future
 
-I focus on **clean architecture, performance optimization, and deployable solutions**.
+I specialize in **high-concurrency backend systems, optimized APIs, real-time communication, and intelligent ML-powered applications.**
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-### 🏛 Software Development Engineer Intern – NIC
-- Built FastAPI + React + Next.js web application
+## 🏛 Software Development Engineer Intern – NIC (May 2025 – Jul 2025)
+
+- Built full-stack application using FastAPI + Next.js + React
 - Integrated ML-based speech-to-text system
-- Optimized backend for 50,000+ users
-- Designed scalable APIs & deployment workflows
-
-### 🐶 Full Stack Developer Intern – Doggzi
-- Developed Admin Panel (FastAPI + React)
-- Azure deployment with CosmosDB
-- Implemented load balancing & performance optimization
-
-### 📚 Backend Developer (Freelance) – Medhwan | Prajwal EdTech
-- Improved Node.js + MongoDB backend performance
-- Enhanced AWS deployment reliability
-- Reduced server failures significantly
+- Improved accessibility for 50,000+ users with 99.9% uptime
+- Reduced REST API latency by 35%
+- Scaled to 5,000+ concurrent users
+- Automated CI/CD pipelines → 50% faster releases, 85% fewer production bugs
 
 ---
 
-## 🚀 Flagship Projects
+## 💬 Full Stack Developer Intern – ChatSpark (1M+ Users)
 
-### 🏢 Placement Cell System (Fully Deployed)
+- Developed production Flutter application for 1M+ users
+- Integrated Meta SDK + Agora Engine for real-time A/V calling
+- Built event-tracking analytics system
+- Reduced API latency by 30%
+- Deployed live Play Store application
+
+---
+
+## 🐶 Full Stack Developer Intern – Doggzi
+
+- Engineered complete Admin Panel (FastAPI + React)
+- Managed 10,000+ users and 50,000+ orders
+- Improved internal workflows by 40%
+- Reduced processing time by 30%
+- Deployed on Microsoft Azure (Azure Functions + CosmosDB)
+- Supported 100+ concurrent requests/sec with 35% latency improvement
+
+---
+
+# 🚀 Production-Grade Projects
+
+## 🏢 Placement Cell System (Fully Deployed)
+
 **Flutter + Next.js + Node.js + MongoDB**
 
-- 1200+ active students
+- 1,200+ active students
 - 100+ company drives annually
-- Company registration & job posting system
-- Slot allocation engine
-- Real-time chat + notifications
-- Admin automation platform
-
-> End-to-end digital placement ecosystem for IIIT Vadodara.
+- End-to-end placement workflow automation
+- Real-time notifications & chat
+- Slot allotment engine with optimized business logic
+- Reduced manual effort by 65%
+- Increased engagement by 85%
 
 ---
 
-### 📊 Projexia – Project Management Platform
+## 📊 Projexia – Scalable Project Management Platform
+
 **TypeScript MERN + Docker + CI/CD**
 
 - Real-time Kanban board
 - Multi-role task assignment
-- API response time: 350ms → 210ms
-- 90% deployment failure reduction
-- MongoDB indexing optimization
+- MongoDB indexing → 40% query improvement
+- API response: 350ms → 210ms
+- Deployment failures reduced by 90%
+- Deployment time reduced by 60%
 
 ---
 
-### 📸 Face Recognition Attendance System
+## 📸 Face Recognition Attendance System
+
 **Raspberry Pi + OpenCV + LBPH**
 
-- 95%+ real-time accuracy
-- 80% faster attendance marking
-- Image preprocessing (Histogram Equalization, Canny, Gaussian filters)
-- 70% cost reduction vs manual system
+- 95%+ real-time recognition accuracy
+- 80% faster attendance capture
+- Image preprocessing pipeline (Histogram Equalization, Canny, Gaussian)
+- 70% cost reduction
+- Optimized for hardware-level efficiency
 
 ---
 
-### 📈 HoloTrade – Stock Trading Simulation App
-**Flutter + Real-time Market Simulation**
+# 🔬 Currently Building
 
-- Simulates stock price movement using GBM
-- Market impact model
-- Admin & User dashboards
-- 100+ simulated transactions
-- Real-time updates every 5 seconds
+## 📡 5G Network Resource Optimization (ML-Based)
+- Intelligent bandwidth allocation
+- Predictive resource modeling
+- High-efficiency network distribution strategies
 
----
-
-### 🤖 AutoML Wizard
-**Python + Flask + Scikit-Learn**
-
-- Automated model selection
-- Classification & regression
-- Top 3 performing model ranking
-- Performance visualization
+## 💰 Expense Manager AI (Startup Project)
+- AI-driven spending analysis
+- Predictive notifications
+- Smart budgeting system
 
 ---
 
-## 🔬 Currently Working On
-
-### 📡 Optimizing 5G Network Resource Distribution using ML
-- Predictive allocation models
-- Resource efficiency optimization
-- Intelligent bandwidth distribution strategies
-
-### 💰 Expense Manager AI (Startup Idea)
-- AI-driven financial notifications
-- Smart spending analysis
-- Predictive expense categorization
-- Behavior-based budgeting assistant
-
----
-
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
-C++ • Python • TypeScript • Dart • JavaScript  
+C++ • C • Python • Dart • JavaScript • TypeScript • SQL
 
 ### Backend
-Node.js • FastAPI • Express • MongoDB • Firebase • SQL  
+FastAPI • Node.js • Express • MongoDB • PostgreSQL • MySQL
 
 ### Frontend
-React • Next.js • Flutter • Tailwind • Bootstrap  
+Flutter • React • Next.js • Tailwind • Bootstrap
+
+### Real-Time Systems
+WebRTC • WebSockets • Agora Engine • Janus
 
 ### DevOps & Cloud
-Docker • GitHub Actions • Azure • AWS  
+Docker • GitHub Actions • Azure • CI/CD Pipelines
 
-### ML / CV
-Scikit-learn • OpenCV • face_recognition • Pandas  
-
----
-
-## 🏆 Achievements & Leadership
-
-- 🥇 1st Place – Hack the Future’24  
-- 🥉 3rd Place – Hack the Future’25  
-- 📈 1714 LeetCode Rating (Top 10%)  
-- ⭐ 3-Star CodeChef (1625 Rating)  
-- 🎯 President – Technical Committee (Managed 30+ events, 50+ members)  
-- 💼 Finance Lead – Microsoft Learn Student Ambassadors (IIITV Chapter)  
-- 🤝 General Secretary – Technical Affairs  
+### ML / AI
+Scikit-learn • OpenCV • TensorFlow • PyTorch • Pandas • NumPy
 
 ---
 
-## 📈 GitHub Stats
+# 🏆 Achievements
+
+- 🥇 Hack the Future’24 (Flutter + Firebase fitness app)
+- 🥉 Hack the Future’25 (Next.js Alumni Platform)
+- 📈 LeetCode Rating 1714 (260+ problems, Top 10%)
+- ⭐ CodeChef 3-Star (1625 rating)
+- 🎯 President – Technical Committee (Managed 30+ events, 50+ members)
+- 💼 Joint Secretary – Finance Club (500+ participants engaged)
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskar008&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170"/>
@@ -165,16 +162,16 @@ Scikit-learn • OpenCV • face_recognition • Pandas
 
 ---
 
-## 🎯 Engineering Philosophy
+## 🎯 Engineering Mindset
 
-- Build for scale.
+- Design for scale.
+- Optimize before scaling.
 - Measure performance.
-- Automate workflows.
-- Deploy early.
-- Iterate fast.
+- Automate deployments.
+- Build systems that last.
 
 ---
 
 <p align="center">
-  <b>System Design • Scalable Backends • Intelligent Applications • Production Deployment</b>
+  <b>High Concurrency Systems • Performance Engineering • Intelligent Applications • Production Deployment</b>
 </p>
