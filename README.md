@@ -153,11 +153,16 @@ Scikit-learn • OpenCV • TensorFlow • PyTorch • Pandas • NumPy
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskar008&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar008&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskar008&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar008&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanskar008&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
